@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/ddc50c875f328121147e7be017a5df65.png);
+    background-repeat: no-repeat;
+}
+p{
+    position: absolute;
+}
+.yellow{
+ right: 80%;
+}
+.blue {
+    left: 90%;
+}
